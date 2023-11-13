@@ -5,7 +5,7 @@ Author - Fatema Chowdhury </br>
 https://chowdhuryfatema.github.io/QR-Code-Generator/
 ## Technologies
 -Html5 </br>
--Row CSS </br>
+-Raw CSS </br>
 -JavaScript </br>
 -Responsive </br>
 -QR code API
